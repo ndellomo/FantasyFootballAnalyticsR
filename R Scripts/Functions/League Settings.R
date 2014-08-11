@@ -12,8 +12,10 @@ numQBstarters <- 1
 numRBstarters <- 2
 numWRstarters <- 2
 numTEstarters <- 1
-numTotalStarters <- 7
-numTotalPlayers <- 20
+numFLEXstarters <- 1
+numKstarters <- 1
+numTotalStarters <- 9
+numTotalPlayers <- 16
 
 #League settings
 defaultCap <- 200           #what the typical cap is for your service (ESPN, Yahoo, etc.) -- used for placing "avg cost" in context
@@ -21,16 +23,19 @@ leagueCap <- 225            #your league's cap
 maxCost <- leagueCap - (numTotalPlayers - numTotalStarters)
 
 #Scoring
-passYdsMultiplier <- (1/25) #1 pt per 25 pass yds
-passTdsMultiplier <- 4      #4 pts per pass td
-passIntMultiplier <- -3     #-3 pts per INT
-rushYdsMultiplier <- (1/10) #1 pt per 10 rush yds
+passYdsMultiplier <- .04 #1 pt per 25 pass yds
+passTdsMultiplier <- 6      #4 pts per pass td
+passIntMultiplier <- -2     #-3 pts per INT
+rushYdsMultiplier <- .1 #1 pt per 10 rush yds
 rushTdsMultiplier <- 6      #6 pts per rush td
 recMultiplier <- 0          #0 pts per rec
-recYdsMultiplier <- (1/8)   #1 pt per 8 rec yds
+recYdsMultiplier <- .1   #1 pt per 8 rec yds
 recTdsMultiplier <- 6       #6 pts per rec td
 twoPtsMultiplier <- 2       #2 pts per 2-point conversion
-fumlMultiplier <- -3        #-3 pts per fumble lost
+fumlMultiplier <- -2      #-3 pts per fumble lost
+fumlTdsMultiplier <- 6
+PATMultipler <- 1
+FGMultipler<- 4
 
 #Projections
 sourcesOfProjections <- c("CBS1", "CBS2", "ESPN", "FantasyFootballNerd", "FantasyPros", "FantasySharks", "FFtoday", "NFL", "Yahoo") #c("Accuscore", "CBS1", "CBS2", "ESPN", "FantasyFootballNerd", "FantasyPros", "FantasySharks", "FFtoday", "FOX", "NFL", "Yahoo")
