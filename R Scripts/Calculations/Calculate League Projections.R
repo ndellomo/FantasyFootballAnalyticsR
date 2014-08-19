@@ -24,12 +24,14 @@ listProjections <- sapply(filenames, function(x) get(load(x)), simplify = FALSE)
 projections <- merge_recurse(listProjections, by=c("name","pos")) #, all=TRUE
 
 #Set player name as most common instance across sources
-nametable <- apply(projections[,paste("name", sourcesOfProjectionsAbbreviation, sep="_")], 1, table)  
+n<-paste("name", sourcesOfProjectionsAbbreviation, sep="_")
+nametable <- apply(projections[names(projections) %in% n], 1, table)  
 projections$player <- names(sapply(nametable,`[`,1) )
 projections$player[which(projections$player == "")] <- NA
 
 #Set team name as most common instance across sources
-teamtable <- apply(projections[,paste("team", sourcesOfProjectionsAbbreviation, sep="_")], 1, table)  
+t<-paste("team", sourcesOfProjectionsAbbreviation, sep="_")
+teamtable <- apply(projections[names(projections) %in% t], 1, table)  
 projections$team <- names(sapply(teamtable,`[`,1) )
 projections$team[which(projections$team == "")] <- NA
 
@@ -172,7 +174,7 @@ projections$projectedPtsMean <- mySum(projections[,c("passYdsPts","passTdsPts","
 projections$projectedPtsMedian <- mySum(projections[,c("passYdsMedianPts","passTdsMedianPts","passIntMedianPts","rushYdsMedianPts","rushTdsMedianPts","recMedianPts","recYdsMedianPts","recTdsMedianPts","twoPtsMedianPts","fumblesMedianPts")])
 
 #Check projections
-projections[,c("name",paste("projectedPts", sourcesOfProjectionsAbbreviation, sep="_"), c("projectedPtsMean","projectedPtsMedian"))]
+View(projections[,c("name",paste("projectedPts", sourcesOfProjectionsAbbreviation, sep="_"), c("projectedPtsMean","projectedPtsMedian"))])
 
 #Calculate latent variable for projected points
 cor(projections[,c(paste("projectedPts", sourcesOfProjectionsAbbreviation, sep="_"), c("projectedPtsMean","projectedPtsMedian"))], use="pairwise.complete.obs")
@@ -246,7 +248,7 @@ row.names(projections) <- 1:dim(projections)[1]
 projections <- projections[,c("name","player","pos","team","overallRank","projections",paste("projectedPts", sourcesOfProjectionsAbbreviation, sep="_"), c("projectedPtsMean","projectedPtsMedian"))] #,"projectedPtsLatent"
 
 #View projections
-projections
+View(projections)
 projections[,c("name","pos","team","projectedPts_fp","projectedPtsMean","projectedPtsMedian")] #,"projectedPtsLatent"
 
 #Density Plot

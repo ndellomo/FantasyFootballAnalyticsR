@@ -1,351 +1,2451 @@
-"name","name_fox","pos","team_fox","positionRank_fox","overallRank_fox","passYds_fox","passTds_fox","passInt_fox","rushYds_fox","rushTds_fox","rec_fox","recYds_fox","recTds_fox","twoPts_fox","fumbles_fox","pts_fox"
-"KELLENMOORE","Kellen Moore","QB","DET",1,1,0,0,0,0,0,NA,NA,NA,0,0,0
-"BRANDONWEEDEN","Brandon Weeden","QB","DAL",1,1,0,0,0,0,0,NA,NA,NA,0,0,0
-"DOMINIQUEDAVIS","Dominique Davis","QB","ATL",1,1,0,0,0,0,0,NA,NA,NA,0,0,0
-"RYANMALLETT","Ryan Mallett","QB","NE",1,1,0,0,0,0,0,NA,NA,NA,0,0,0
-"CAMNEWTON","Cam Newton","QB","CAR",1,1,0,0,0,0,0,NA,NA,NA,0,0,0
-"RYANTANNEHILL","Ryan Tannehill","QB","MIA",1,1,0,0,0,0,0,NA,NA,NA,0,0,0
-"GJKINNE","G.J. Kinne","QB","PHI",1,1,0,0,0,0,0,NA,NA,NA,0,0,0
-"RUSSELLWILSON","Russell Wilson","QB","SEA",1,1,0,0,0,0,0,NA,NA,NA,0,0,0
-"RYANLINDLEY","Ryan Lindley","QB","ARI",1,1,0,0,0,0,0,NA,NA,NA,0,0,0
-"NICKFOLES","Nick Foles","QB","PHI",1,1,0,0,0,0,0,NA,NA,NA,0,0,0
-"TYRODTAYLOR","Tyrod Taylor","QB","BAL",1,1,0,0,0,0,0,NA,NA,NA,0,0,0
-"CHANDLERHARNISH","Chandler Harnish","QB","IND",1,1,0,0,0,0,0,NA,NA,NA,0,0,0
-"AUSTINDAVIS","Austin Davis","QB","STL",1,1,0,0,0,0,0,NA,NA,NA,0,0,0
-"RICKYSTANZI","Ricky Stanzi","QB","JAC",1,1,0,0,0,0,0,NA,NA,NA,0,0,0
-"SAMBRADFORD","Sam Bradford","QB","STL",1,1,0,0,0,0,0,NA,NA,NA,0,0,0
-"MCLEODBETHELTHOMPSON","McLeod Bethel-Thompson","QB","SF",1,1,0,0,0,0,0,NA,NA,NA,0,0,0
-"CHRISTIANPONDER","Christian Ponder","QB","MIN",1,1,0,0,0,0,0,NA,NA,NA,0,0,0
-"JAKELOCKER","Jake Locker","QB","TEN",1,1,0,0,0,0,0,NA,NA,NA,0,0,0
-"SCOTTTOLZIEN","Scott Tolzien","QB","GB",1,1,0,0,0,0,0,NA,NA,NA,0,0,0
-"JOSHFREEMAN","Josh Freeman","QB","NYG",1,1,0,0,0,0,0,NA,NA,NA,0,0,0
-"NICKSTEPHENS","Nick Stephens","QB","BAL",1,1,0,0,0,0,0,NA,NA,NA,0,0,0
-"CASEKEENUM","Case Keenum","QB","HOU",1,1,0,0,0,0,0,NA,NA,NA,0,0,0
-"PATDEVLIN","Pat Devlin","QB","MIA",1,1,0,0,0,0,0,NA,NA,NA,0,0,0
-"JERRODJOHNSON","Jerrod Johnson","QB","CHI",1,1,0,0,0,0,0,NA,NA,NA,0,0,0
-"GREGMCELROY","Greg McElroy","QB","CIN",1,1,0,0,0,0,0,NA,NA,NA,0,0,0
-"THADLEWIS","Thad Lewis","QB","BUF",1,1,0,0,0,0,0,NA,NA,NA,0,0,0
-"MATTMCGLOIN","Matt McGloin","QB","OAK",1,1,0,0,0,0,0,NA,NA,NA,0,0,0
-"MATTBARKLEY","Matt Barkley","QB","PHI",1,1,0,0,0,0,0,NA,NA,NA,0,0,0
-"BROCKOSWEILER","Brock Osweiler","QB","DEN",1,1,0,0,0,0,0,NA,NA,NA,0,0,0
-"TYLERWILSON","Tyler Wilson","QB","TEN",1,1,0,0,0,0,0,NA,NA,NA,0,0,0
-"RYANGRIFFIN","Ryan Griffin","QB","NO",1,1,0,0,0,0,0,NA,NA,NA,0,0,0
-"ZACDYSERT","Zac Dysert","QB","DEN",1,1,0,0,0,0,0,NA,NA,NA,0,0,0
-"JEFFTUEL","Jeff Tuel","QB","BUF",1,1,0,0,0,0,0,NA,NA,NA,0,0,0
-"JORDANRODGERS","Jordan Rodgers","QB","MIA",1,1,0,0,0,0,0,NA,NA,NA,0,0,0
-"ALEXTANNEY","Alex Tanney","QB","TB",1,1,0,0,0,0,0,NA,NA,NA,0,0,0
-"MATTBLANCHARD","Matt Blanchard","QB","CAR",1,1,0,0,0,0,0,NA,NA,NA,0,0,0
-"BRADSORENSEN","Brad Sorensen","QB","SD",1,1,0,0,0,0,0,NA,NA,NA,0,0,0
-"GENOSMITH","Geno Smith","QB","NYJ",1,1,0,0,0,0,0,NA,NA,NA,0,0,0
-"TYLERBRAY","Tyler Bray","QB","KC",1,1,0,0,0,0,0,NA,NA,NA,0,0,0
-"MATTSCOTT","Matt Scott","QB","CIN",1,1,0,0,0,0,0,NA,NA,NA,0,0,0
-"ROBERTGRIFFINIII","Robert Griffin III","QB","WAS",1,1,0,0,0,0,0,NA,NA,NA,0,0,0
-"TERRELLEPRYOR","Terrelle Pryor","QB","SEA",1,1,0,0,0,0,0,NA,NA,NA,0,0,0
-"KIRKCOUSINS","Kirk Cousins","QB","WAS",1,1,0,0,0,0,0,NA,NA,NA,0,0,0
-"MATTSIMMS","Matt Simms","QB","NYJ",1,1,0,0,0,0,0,NA,NA,NA,0,0,0
-"LANDRYJONES","Landry Jones","QB","PIT",1,1,0,0,0,0,0,NA,NA,NA,0,0,0
-"ANDREWLUCK","Andrew Luck","QB","IND",1,1,0,0,0,0,0,NA,NA,NA,0,0,0
-"MIKEGLENNON","Mike Glennon","QB","TB",1,1,0,0,0,0,0,NA,NA,NA,0,0,0
-"BJDANIELS","B.J. Daniels","QB","SEA",1,1,0,0,0,0,0,NA,NA,NA,0,0,0
-"RYANNASSIB","Ryan Nassib","QB","NYG",1,1,0,0,0,0,0,NA,NA,NA,0,0,0
-"EJMANUEL","EJ Manuel","QB","BUF",1,1,0,0,0,0,0,NA,NA,NA,0,0,0
-"WILLIECARTER","Willie Carter","RB","CHI",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"INALIAINA","Ina Liaina","RB","GB",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"LATAVIUSMURRAY","Latavius Murray","RB","OAK",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"JONASGRAY","Jonas Gray","RB","NE",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"LANCEDUNBAR","Lance Dunbar","RB","DAL",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"BRANDONBOLDEN","Brandon Bolden","RB","NE",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"MICHAELCOX","Michael Cox","RB","NYG",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"JEWELHAMPTON","Jewel Hampton","RB","SF",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"JORDANTODMAN","Jordan Todman","RB","JAC",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"DENNISJOHNSON","Dennis Johnson","RB","HOU",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"BRADSMELLEY","Brad Smelley","RB","HOU",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"MICHAELZORDICH","Michael Zordich","RB","CAR",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"TOMMYBOHANON","Tommy Bohanon","RB","NYJ",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"ALVESTERALEXANDER","Alvester Alexander","RB","PIT",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"TOBENOPURUM","Toben Opurum","RB","HOU",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"ORWINSMITH","Orwin Smith","RB","GB",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"REXBURKHEAD","Rex Burkhead","RB","CIN",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"MIKEJAMES","Mike James","RB","TB",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"DIONLEWIS","Dion Lewis","RB","CLE",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"ZACHBOREN","Zach Boren","RB","SD",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"MATTHEWTUCKER","Matthew Tucker","RB","PHI",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"KNILEDAVIS","Knile Davis","RB","KC",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"MICHAELSMITH","Michael Smith","RB","TB",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"RYANWILLIAMS","Ryan Williams","RB","DAL",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"TAURENPOOLE","Tauren Poole","RB","PIT",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"CYRUSGRAY","Cyrus Gray","RB","KC",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"AUSTINJOHNSON","Austin Johnson","RB","NO",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"MARKINGRAM","Mark Ingram","RB","NO",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"LEGARRETTEBLOUNT","LeGarrette Blount","RB","PIT",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"ISAIAHPEAD","Isaiah Pead","RB","STL",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"ROYHELUJR","Roy Helu Jr.","RB","WAS",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"EVANRODRIGUEZ","Evan Rodriguez","RB","BUF",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"RYANMATHEWS","Ryan Mathews","RB","SD",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"MIKELLESHOURE","Mikel Leshoure","RB","DET",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"PATRICKDIMARCO","Patrick DiMarco","RB","ATL",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"CHRISPOLK","Chris Polk","RB","PHI",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"JONATHANGRIMES","Jonathan Grimes","RB","HOU",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"DERRICKCOLEMAN","Derrick Coleman","RB","SEA",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"BRADIEEWING","Bradie Ewing","RB","JAC",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"ANDREELLINGTON","Andre Ellington","RB","ARI",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"JEFFDEMPS","Jeff Demps","RB","TB",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"JOHNATHANFRANKLIN","Johnathan Franklin","RB","GB",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"KENJONBARNER","Kenjon Barner","RB","CAR",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"JACQUIZZRODGERS","Jacquizz Rodgers","RB","ATL",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"LAMICHAELJAMES","LaMichael James","RB","SF",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"ALEXDEBNIAK","Alex Debniak","RB","SF",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"ZACHLINE","Zach Line","RB","MIN",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"MICHAELFORD","Michael Ford","RB","CHI",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"MIGUELMAYSONET","Miguel Maysonet","RB","PIT",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"JAMAINECOOK","Jamaine Cook","RB","CLE",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"STEPHENCAMPBELL","Stephen Campbell","RB","IND",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"VICKBALLARD","Vick Ballard","RB","IND",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"SPENCERWARE","Spencer Ware","RB","SEA",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"DANIELTHOMAS","Daniel Thomas","RB","MIA",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"RONNIEWINGO","Ronnie Wingo","RB","BUF",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"RAYGRAHAM","Ray Graham","RB","HOU",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"ORSONCHARLES","Orson Charles","RB","CIN",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"BERNARDPIERCE","Bernard Pierce","RB","BAL",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"RONNIEHILLMAN","Ronnie Hillman","RB","DEN",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"LEVEONBELL","Le'Veon Bell","RB","PIT",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"CAMERONWHITE","Cameron White","RB","IND",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"DARYLRICHARDSON","Daryl Richardson","RB","NYJ",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"MICHAELHILL","Michael Hill","RB","GB",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"CARLINISLES","Carlin Isles","RB","DET",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"KHIRYROBINSON","Khiry Robinson","RB","NO",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"CJANDERSON","C.J. Anderson","RB","DEN",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"JOSEPHRANDLE","Joseph Randle","RB","DAL",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"GIOVANIBERNARD","Giovani Bernard","RB","CIN",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"MARCUSLATTIMORE","Marcus Lattimore","RB","SF",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"STEVENMILLER","Steven Miller","RB","DET",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"JAMIZEOLAWALE","Jamize Olawale","RB","OAK",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"EDWINBAKER","Edwin Baker","RB","CLE",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"ZACSTACY","Zac Stacy","RB","STL",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"JERODISWILLIAMS","Jerodis Williams","RB","DEN",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"BRADLEYRANDLE","Bradley Randle","RB","MIN",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"DAVIDWILSON","David Wilson","RB","NYG",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"CAMERONMARSHALL","Cameron Marshall","RB","MIA",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"STEPFANTAYLOR","Stepfan Taylor","RB","ARI",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"KENDALLGASKINS","Kendall Gaskins","RB","NYG",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"BENNYCUNNINGHAM","Benny Cunningham","RB","STL",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"MONTEEBALL","Montee Ball","RB","DEN",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"BRYCEBROWN","Bryce Brown","RB","BUF",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"KYLEJUSZCZYK","Kyle Juszczyk","RB","BAL",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"ALEXGREEN","Alex Green","RB","NYJ",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"CHRISTHOMPSON","Chris Thompson","RB","WAS",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"LONNIEPRYOR","Lonnie Pryor","RB","TB",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"CIERREWOOD","Cierre Wood","RB","BAL",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"CHRISTINEMICHAEL","Christine Michael","RB","SEA",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"JOIQUEBELL","Joique Bell","RB","DET",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"THEORIDDICK","Theo Riddick","RB","DET",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"EDDIELACY","Eddie Lacy","RB","GB",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"KERWYNNWILLIAMS","Kerwynn Williams","RB","SD",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"TRENTRICHARDSON","Trent Richardson","RB","IND",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"LAMARMILLER","Lamar Miller","RB","MIA",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"MIKEGILLISLEE","Mike Gillislee","RB","MIA",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"BOBBYRAINEY","Bobby Rainey","RB","TB",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"MARSHAWNLYNCH","Marshawn Lynch","RB","SEA",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"JUSTINFORSETT","Justin Forsett","RB","BAL",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"TONYFIAMMETTA","Tony Fiammetta","RB","CHI",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"WILLTAUFOOU","Will Ta'ufo'ou","RB","JAC",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"TANDONDOSS","Tandon Doss","WR","JAC",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"AJJENKINS","A.J. Jenkins","WR","KC",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"CHRISGIVENS","Chris Givens","WR","STL",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"JEREMYEBERT","Jeremy Ebert","WR","JAC",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"DEVIERPOSEY","DeVier Posey","WR","HOU",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"JARRETTBOYKIN","Jarrett Boykin","WR","GB",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"KESHAWNMARTIN","Keshawn Martin","WR","HOU",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"MYLESWHITE","Myles White","WR","GB",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"TOBAISPALMER","Tobais Palmer","WR","SD",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"LAMONTBRYANT","Lamont Bryant","WR","TEN",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"FRANKIEHAMMONDJR","Frankie Hammond Jr.","WR","KC",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"BRENTONBERSIN","Brenton Bersin","WR","CAR",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"MARVINJONES","Marvin Jones","WR","CIN",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"JARONBROWN","Jaron Brown","WR","ARI",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"TJGRAHAM","T.J. Graham","WR","BUF",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"JERRELLJACKSON","Jerrell Jackson","WR","KC",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"DAVIDREED","David Reed","WR","SF",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"LAMAARTHOMAS","Lamaar Thomas","WR","JAC",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"ANDYCRUSE","Andy Cruse","WR","HOU",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"WILLMURPHY","Will Murphy","WR","PHI",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"AARONMELLETTE","Aaron Mellette","WR","BAL",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"TYHILTON","T.Y. Hilton","WR","IND",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"TORIGURLEY","Tori Gurley","WR","CLE",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"CODYWILSON","Cody Wilson","WR","DET",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"RUSSELLSHEPARD","Russell Shepard","WR","TB",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"MOHAMEDSANU","Mohamed Sanu","WR","CIN",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"DAMARISJOHNSON","Damaris Johnson","WR","PHI",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"TOMMYSTREETER","Tommy Streeter","WR","TB",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"GERRARDSHEPPARD","Gerrard Sheppard","WR","BAL",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"LARONBYRD","LaRon Byrd","WR","DAL",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"TRAVISBENJAMIN","Travis Benjamin","WR","CLE",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"RANDALLCOBB","Randall Cobb","WR","GB",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"CHRISSUMMERS","Chris Summers","WR","BUF",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"JARIUSWRIGHT","Jarius Wright","WR","MIN",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"ARCETOCLARK","Arceto Clark","WR","SEA",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"GRIFFWHALEN","Griff Whalen","WR","IND",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"TONEYCLEMONS","Toney Clemons","WR","CAR",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"JUNIORHEMINGWAY","Junior Hemingway","WR","KC",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"ANTONIOBROWN","Antonio Brown","WR","PIT",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"DEVONWYLIE","Devon Wylie","WR","SF",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"KEVINCONE","Kevin Cone","WR","MIA",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"DANBUCKNER","Dan Buckner","WR","ARI",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"CHRISGIVENS","Chris Givens","WR","NO",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"KEVINDORSEY","Kevin Dorsey","WR","GB",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"DEREKMOYE","Derek Moye","WR","PIT",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"ALDRICKROBINSON","Aldrick Robinson","WR","WAS",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"JEFFMAEHL","Jeff Maehl","WR","PHI",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"JULIANTALLEY","Julian Talley","WR","NYG",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"MIKEBROWN","Mike Brown","WR","JAC",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"BJCUNNINGHAM","B.J. Cunningham","WR","PHI",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"KEVINELLIOTT","Kevin Elliott","WR","BUF",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"VINCENTBROWN","Vincent Brown","WR","SD",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"DREWDAVIS","Drew Davis","WR","ATL",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"JURONCRINER","Juron Criner","WR","OAK",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"MICHAELRIOS","Michael Rios","WR","MIA",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"JABINSAMBRANO","Jabin Sambrano","WR","JAC",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"JERMAINEKEARSE","Jermaine Kearse","WR","SEA",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"KENDALLWRIGHT","Kendall Wright","WR","TEN",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"COLEBEASLEY","Cole Beasley","WR","DAL",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"CHRISOWUSU","Chris Owusu","WR","TB",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"LANEARSAMPSON","Lanear Sampson","WR","PIT",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"TERRANCEWILLIAMS","Terrance Williams","WR","DAL",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"BRICEBUTLER","Brice Butler","WR","OAK",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"CHRISHARPER","Chris Harper","WR","GB",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"JULIOJONES","Julio Jones","WR","ATL",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"TAVARRESKING","Tavarres King","WR","CAR",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"PATRICKEDWARDS","Patrick Edwards","WR","DET",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"AJGREEN","A.J. Green","WR","CIN",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"TIMBENFORD","Tim Benford","WR","DAL",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"JONBALDWIN","Jon Baldwin","WR","SF",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"MICHAELFLOYD","Michael Floyd","WR","ARI",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"ACESANDERS","Ace Sanders","WR","JAC",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"JOSHBELLAMY","Josh Bellamy","WR","CHI",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"RODSTREATER","Rod Streater","WR","OAK",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"GREGJENKINS","Greg Jenkins","WR","OAK",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"TEDDYWILLIAMS","Teddy Williams","WR","ARI",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"KEENANALLEN","Keenan Allen","WR","SD",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"LANCELEWIS","Lance Lewis","WR","DAL",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"ROBERTWOODS","Robert Woods","WR","BUF",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"ANDYTANNER","Andy Tanner","WR","NO",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"JAVONELAWSON","Javone Lawson","WR","ARI",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"CHARLESHAWKINS","Charles Hawkins","WR","NO",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"JUSTINVELTUNG","Justin Veltung","WR","STL",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"CORDELLROBERSON","Cordell Roberson","WR","BUF",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"KENNYSTILLS","Kenny Stills","WR","NO",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"KENBRELLTHOMPKINS","Kenbrell Thompkins","WR","NE",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"JUSTINHUNTER","Justin Hunter","WR","TEN",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"DARICKROGERS","Da'Rick Rogers","WR","IND",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"RISHARDMATTHEWS","Rishard Matthews","WR","MIA",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"GREGWILSON","Greg Wilson","WR","DEN",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"CHUCKJACOBS","Chuck Jacobs","WR","SF",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"QUINTONPATTON","Quinton Patton","WR","SF",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"RASHADROSS","Rashad Ross","WR","WAS",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"JASPERCOLLINS","Jasper Collins","WR","CIN",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"ADAMTHIELEN","Adam Thielen","WR","MIN",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"BRITTANGOLDEN","Brittan Golden","WR","ARI",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"CORDARRELLEPATTERSON","Cordarrelle Patterson","WR","MIN",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"MICHAELPRESTON","Michael Preston","WR","TEN",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"ANDREHOLMES","Andre Holmes","WR","OAK",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"COREYFULLER","Corey Fuller","WR","DET",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"CECILSHORTSIII","Cecil Shorts III","WR","JAC",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"CLYDEGATES","Clyde Gates","WR","NYJ",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"CHRISHOGAN","Chris Hogan","WR","BUF",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"SAALIMHAKIM","Saalim Hakim","WR","NYJ",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"MARQUESSWILSON","Marquess Wilson","WR","CHI",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"DEANDREHOPKINS","DeAndre Hopkins","WR","HOU",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"TRAVISHARVEY","Travis Harvey","WR","NYG",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"MARQUISEGOODWIN","Marquise Goodwin","WR","BUF",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"DOMINIQUECROOM","Dominique Croom","WR","ATL",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"JOSHGORDON","Josh Gordon","WR","CLE",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"ALSHONJEFFERY","Alshon Jeffery","WR","CHI",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"RODNEYSMITH","Rodney Smith","WR","MIN",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"ALEXGILLETT","Alex Gillett","WR","GB",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"RICORICHARDSON","Rico Richardson","WR","HOU",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"EMORYBLAKE","Emory Blake","WR","STL",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"RYANSPADOLA","Ryan Spadola","WR","MIA",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"STEPHENHILL","Stephen Hill","WR","NYJ",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"RUEBENRANDLE","Rueben Randle","WR","NYG",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"JOSHBOYCE","Josh Boyce","WR","NE",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"MARKUSWHEATON","Markus Wheaton","WR","PIT",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"ALECLEMON","Alec Lemon","WR","HOU",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"SKYEDAWSON","Skye Dawson","WR","TB",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"CONNERVERNON","Conner Vernon","WR","CLE",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"BRANDONKAUFMAN","Brandon Kaufman","WR","BUF",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"ERICPAGE","Eric Page","WR","TB",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"DARIUSJOHNSON","Darius Johnson","WR","ATL",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"KAMARJORDEN","Kamar Jorden","WR","MIN",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"CHADBUMPHIS","Chad Bumphis","WR","JAC",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"AARONDOBSON","Aaron Dobson","WR","NE",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"STEDMANBAILEY","Stedman Bailey","WR","STL",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"JUSTINBROWN","Justin Brown","WR","PIT",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"ALANBONNER","Alan Bonner","WR","HOU",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"TAVONAUSTIN","Tavon Austin","WR","STL",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"CHRISMATTHEWS","Chris Matthews","WR","SEA",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"EZNWACHUKWU","EZ Nwachukwu","WR","HOU",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"DENARDROBINSON","Denard Robinson","WR","JAC",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"JOSHLENZ","Josh Lenz","WR","IND",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"RICARDOLOCKETTE","Ricardo Lockette","WR","SEA",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"COBIHAMILTON","Cobi Hamilton","WR","CIN",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"MARLONBROWN","Marlon Brown","WR","BAL",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"NICKWILLIAMS","Nick Williams","WR","WAS",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"MARKHARRISON","Mark Harrison","WR","NE",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"RAMSESBARDEN","Ramses Barden","WR","BUF",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"RJWEBB","R.J. Webb","WR","CAR",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"SEYIAJIROTUTU","Seyi Ajirotutu","WR","SD",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"BRANDONTATE","Brandon Tate","WR","CIN",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"DAVIDGETTIS","David Gettis","WR","WAS",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"GREGORTON","Greg Orton","WR","NE",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"LOUISMURPHYJR","Louis Murphy Jr.","WR","TB",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"DAVIDNELSON","David Nelson","WR","NYJ",1,1,NA,NA,NA,0,0,0,0,0,0,0,0
-"TRAVISKELCE","Travis Kelce","TE","KC",1,1,NA,NA,NA,0,0,0,0,0,0,NA,0
-"JAKESTONEBURNER","Jake Stoneburner","TE","GB",1,1,NA,NA,NA,0,0,0,0,0,0,NA,0
-"MATTVELDMAN","Matt Veldman","TE","DET",1,1,NA,NA,NA,0,0,0,0,0,0,NA,0
-"MYCHALRIVERA","Mychal Rivera","TE","OAK",1,1,NA,NA,NA,0,0,0,0,0,0,NA,0
-"JAMESHANNA","James Hanna","TE","DAL",1,1,NA,NA,NA,0,0,0,0,0,0,NA,0
-"DAVIDPAULSON","David Paulson","TE","PIT",1,1,NA,NA,NA,0,0,0,0,0,0,NA,0
-"ANDREHARDY","Andre Hardy","TE","ARI",1,1,NA,NA,NA,0,0,0,0,0,0,NA,0
-"JAKEBYRNE","Jake Byrne","TE","SD",1,1,NA,NA,NA,0,0,0,0,0,0,NA,0
-"MATTFURSTENBURG","Matt Furstenburg","TE","BAL",1,1,NA,NA,NA,0,0,0,0,0,0,NA,0
-"COLINANDERSON","Colin Anderson","TE","NYJ",1,1,NA,NA,NA,0,0,0,0,0,0,NA,0
-"DWAYNEALLEN","Dwayne Allen","TE","IND",1,1,NA,NA,NA,0,0,0,0,0,0,NA,0
-"BEAUBRINKLEY","Beau Brinkley","TE","TEN",1,1,NA,NA,NA,0,0,0,0,0,0,NA,0
-"MARQUEISGRAY","MarQueis Gray","TE","CLE",1,1,NA,NA,NA,0,0,0,0,0,0,NA,0
-"KEVINMCDERMOTT","Kevin McDermott","TE","SF",1,1,NA,NA,NA,0,0,0,0,0,0,NA,0
-"MICHAELEGNEW","Michael Egnew","TE","MIA",1,1,NA,NA,NA,0,0,0,0,0,0,NA,0
-"GERELLROBINSON","Gerell Robinson","TE","DEN",1,1,NA,NA,NA,0,0,0,0,0,0,NA,0
-"TAYLORTHOMPSON","Taylor Thompson","TE","TEN",1,1,NA,NA,NA,0,0,0,0,0,0,NA,0
-"CHRISPANTALE","Chris Pantale","TE","NYJ",1,1,NA,NA,NA,0,0,0,0,0,0,NA,0
-"CORYHARKEY","Cory Harkey","TE","STL",1,1,NA,NA,NA,0,0,0,0,0,0,NA,0
-"ZACHSUDFELD","Zach Sudfeld","TE","NYJ",1,1,NA,NA,NA,0,0,0,0,0,0,NA,0
-"ADAMNISSLEY","Adam Nissley","TE","ATL",1,1,NA,NA,NA,0,0,0,0,0,0,NA,0
-"COBYFLEENER","Coby Fleener","TE","IND",1,1,NA,NA,NA,0,0,0,0,0,0,NA,0
-"EMILIGWENAGU","Emil Igwenagu","TE","PHI",1,1,NA,NA,NA,0,0,0,0,0,0,NA,0
-"CHARLESCLAY","Charles Clay","TE","MIA",1,1,NA,NA,NA,0,0,0,0,0,0,NA,0
-"ALLENREISNER","Allen Reisner","TE","MIN",1,1,NA,NA,NA,0,0,0,0,0,0,NA,0
-"ADRIENROBINSON","Adrien Robinson","TE","NYG",1,1,NA,NA,NA,0,0,0,0,0,0,NA,0
-"JAMESCASEY","James Casey","TE","PHI",1,1,NA,NA,NA,0,0,0,0,0,0,NA,0
-"RHETTELLISON","Rhett Ellison","TE","MIN",1,1,NA,NA,NA,0,0,0,0,0,0,NA,0
-"JORDANCAMERON","Jordan Cameron","TE","CLE",1,1,NA,NA,NA,0,0,0,0,0,0,NA,0
-"DANNYNOBLE","Danny Noble","TE","JAC",1,1,NA,NA,NA,0,0,0,0,0,0,NA,0
-"WESLYESAUNDERS","Weslye Saunders","TE","IND",1,1,NA,NA,NA,0,0,0,0,0,0,NA,0
-"ANDREWSZCZERBA","Andrew Szczerba","TE","ATL",1,1,NA,NA,NA,0,0,0,0,0,0,NA,0
-"MARTELLWEBB","Martell Webb","TE","IND",1,1,NA,NA,NA,0,0,0,0,0,0,NA,0
-"DJWILLIAMS","D.J. Williams","TE","NE",1,1,NA,NA,NA,0,0,0,0,0,0,NA,0
-"NILESPAUL","Niles Paul","TE","WAS",1,1,NA,NA,NA,0,0,0,0,0,0,NA,0
-"LARRYDONNELL","Larry Donnell","TE","NYG",1,1,NA,NA,NA,0,0,0,0,0,0,NA,0
-"PATRICKSCALES","Patrick Scales","TE","TB",1,1,NA,NA,NA,0,0,0,0,0,0,NA,0
-"RAYMONDWEBBER","Raymond Webber","TE","GB",1,1,NA,NA,NA,0,0,0,0,0,0,NA,0
-"GARRETTCELEK","Garrett Celek","TE","SF",1,1,NA,NA,NA,0,0,0,0,0,0,NA,0
-"BRANDONWILLIAMS","Brandon Williams","TE","CAR",1,1,NA,NA,NA,0,0,0,0,0,0,NA,0
-"BRANDONBOSTICK","Brandon Bostick","TE","GB",1,1,NA,NA,NA,0,0,0,0,0,0,NA,0
-"JULIUSTHOMAS","Julius Thomas","TE","DEN",1,1,NA,NA,NA,0,0,0,0,0,0,NA,0
-"COOPERHELFET","Cooper Helfet","TE","SEA",1,1,NA,NA,NA,0,0,0,0,0,0,NA,0
-"DIONSIMS","Dion Sims","TE","MIA",1,1,NA,NA,NA,0,0,0,0,0,0,NA,0
-"GAVINESCOBAR","Gavin Escobar","TE","DAL",1,1,NA,NA,NA,0,0,0,0,0,0,NA,0
-"JUSTICECUNNINGHAM","Justice Cunningham","TE","STL",1,1,NA,NA,NA,0,0,0,0,0,0,NA,0
-"TYLEREIFERT","Tyler Eifert","TE","CIN",1,1,NA,NA,NA,0,0,0,0,0,0,NA,0
-"JORDANREED","Jordan Reed","TE","WAS",1,1,NA,NA,NA,0,0,0,0,0,0,NA,0
-"CHASEFORD","Chase Ford","TE","MIN",1,1,NA,NA,NA,0,0,0,0,0,0,NA,0
-"DEREKCARRIER","Derek Carrier","TE","SF",1,1,NA,NA,NA,0,0,0,0,0,0,NA,0
+"V1","V2","V3","V4","V5","V6","V7","V8","V9","V10","V11","pos","V12","V13","V14","player_fox","status_fox","rushAtt_fox","rushYds_fox","rushTds_fox","rec_fox","recYds_fox","recTds_fox","twoPts_fox","pts_fox","name_fox","name","team_fox","positionRank_fox"
+"Drew Brees
+    
+	
+
+
+	(NO - QB)","@Atl
+Sun, 1:00p","37","5125","16","0","38","1","0","0","400.3","QB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Matt Ryan
+    
+	
+
+
+	(Atl - QB)","NO
+Sun, 1:00p","33","4812","14","0","60","1","0","0","372.5","QB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Aaron Rodgers
+    
+	
+
+
+	(GB - QB)","@Sea
+Thu, 8:30p","32","4260","10","1","186","0","0","1","368.2","QB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Peyton Manning
+    
+	
+
+
+	(Den - QB)","Ind
+Sun, 8:30p","33","4449","11","0","-2","0","0","0","352.2","QB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Tony Romo
+    
+	
+
+
+	(Dal - QB)","SF
+Sun, 4:25p","31","4654","14","0","34","1","0","0","346.8","QB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Philip Rivers
+    
+	
+
+
+	(SD - QB)","@Ari
+Mon, 10:20p","31","4463","13","0","33","1","0","0","344.3","QB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Nick Foles
+    
+	
+
+
+	(Phi - QB)","Jac
+Sun, 1:00p","28","4093","9","1","163","0","0","1","337.3","QB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Tom Brady
+    
+	
+
+
+	(NE - QB)","@Mia
+Sun, 1:00p","30","4296","11","0","21","0","0","0","333.6","QB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Matthew Stafford
+    
+	
+
+
+	(Det - QB)","NYG
+Mon, 7:10p","29","4601","17","0","60","1","0","1","331.6","QB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Josh McCown
+    
+	
+
+
+	(TB - QB)","Car
+Sun, 4:25p","29","4310","14","0","92","1","0","0","331.5","QB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Andrew Luck
+    
+	
+
+
+	(Ind - QB)","@Den
+Sun, 8:30p","27","3980","13","1","250","0","0","1","329.7","QB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Ben Roethlisberger
+    
+	
+
+
+	(Pit - QB)","Cle
+Sun, 1:00p","29","4271","12","0","51","0","0","0","325.2","QB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Cam Newton
+    
+	
+
+
+	(Car - QB)","@TB
+Sun, 4:25p","23","3494","11","3","493","0","0","1","320.8","QB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Robert Griffin III
+    
+	
+
+
+	(Was - QB)","@Hou
+Sun, 1:00p","24","3646","12","2","404","1","0","1","319.5","QB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Eli Manning
+    
+	
+
+
+	(NYG - QB)","@Det
+Mon, 7:10p","30","4342","18","0","14","0","0","0","318.8","QB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jay Cutler
+    
+	
+
+
+	(Chi - QB)","Buf
+Sun, 1:00p","28","4211","16","0","83","0","0","1","316.4","QB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Andy Dalton
+    
+	
+
+
+	(Cin - QB)","@Bal
+Sun, 1:00p","27","4020","15","1","152","0","0","0","311.7","QB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Joe Flacco
+    
+	
+
+
+	(Bal - QB)","Cin
+Sun, 1:00p","28","4096","15","0","53","0","0","0","308.5","QB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Carson Palmer
+    
+	
+
+
+	(Ari - QB)","SD
+Mon, 10:20p","28","4244","18","0","17","0","0","0","307.2","QB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Johnny Manziel
+    
+	
+
+
+	(Cle - QB)","@Pit
+Sun, 1:00p","23","3655","15","2","414","1","0","1","306.6","QB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"EJ Manuel
+    
+	
+
+
+	(Buf - QB)","@Chi
+Sun, 1:00p","24","3571","14","2","325","0","0","1","302.5","QB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sam Bradford
+    
+	
+
+
+	(StL - QB)","Min
+Sun, 1:00p","26","4085","13","0","70","0","0","0","301.7","QB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Colin Kaepernick
+    
+	
+
+
+	(SF - QB)","@Dal
+Sun, 4:25p","22","3358","8","2","398","0","0","1","301.1","QB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Ryan Tannehill
+    
+	
+
+
+	(Mia - QB)","NE
+Sun, 1:00p","26","3880","14","1","129","0","0","1","297.1","QB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Russell Wilson
+    
+	
+
+
+	(Sea - QB)","GB
+Thu, 8:30p","21","3346","10","2","370","0","0","1","287.9","QB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Chad Henne
+    
+	
+
+
+	(Jac - QB)","@Phi
+Sun, 1:00p","24","4001","16","0","92","0","0","1","286.2","QB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Matt Cassel
+    
+	
+
+
+	(Min - QB)","@StL
+Sun, 1:00p","25","3824","16","0","101","1","0","1","284.0","QB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Matt Schaub
+    
+	
+
+
+	(Oak - QB)","@NYJ
+Sun, 1:00p","25","4109","16","0","14","0","0","0","282.6","QB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Ryan Fitzpatrick
+    
+	
+
+
+	(Hou - QB)","Was
+Sun, 1:00p","24","3759","14","1","141","0","0","1","282.0","QB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Alex Smith
+    
+	
+
+
+	(KC - QB)","Ten
+Sun, 1:00p","21","3543","9","1","194","0","0","1","275.1","QB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jake Locker
+    
+	
+
+
+	(Ten - QB)","@KC
+Sun, 1:00p","22","3541","12","1","180","0","0","1","274.2","QB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Geno Smith
+    
+	
+
+
+	(NYJ - QB)","Oak
+Sun, 1:00p","18","3131","16","2","316","0","0","1","241.7","QB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Alex Tanney
+    
+	
+
+
+	(TB - QB)","Car
+Sun, 4:25p","0","0","0","0","0","0","0","0","0.0","QB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Blaine Gabbert
+    
+	
+
+
+	(SF - QB)","@Dal
+Sun, 4:25p","0","0","0","0","0","0","0","0","0.0","QB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jordan Rodgers
+    
+	
+
+
+	(Mia - QB)","NE
+Sun, 1:00p","0","0","0","0","0","0","0","0","0.0","QB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brady Quinn
+    
+	
+
+
+	(Mia - QB)","NE
+Sun, 1:00p","0","0","0","0","0","0","0","0","0.0","QB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Tyler Bray
+    
+	
+
+
+	(KC - QB)","Ten
+Sun, 1:00p","0","0","0","0","0","0","0","0","0.0","QB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Matt Blanchard
+    
+	
+
+
+	(Car - QB)","@TB
+Sun, 4:25p","0","0","0","0","0","0","0","0","0.0","QB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Blake Bortles
+    
+	
+
+
+	(Jac - QB)","@Phi
+Sun, 1:00p","0","0","0","0","0","0","0","0","0.0","QB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"David Fales
+    
+	
+
+
+	(Chi - QB)","Buf
+Sun, 1:00p","0","0","0","0","0","0","0","0","0.0","QB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Terrelle Pryor
+    
+	
+
+
+	(Sea - QB)","GB
+Thu, 8:30p","0","0","0","0","0","0","0","0","0.0","QB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Rex Grossman
+    
+	
+
+
+	(Cle - QB)","@Pit
+Sun, 1:00p","0","0","0","0","0","0","0","0","0.0","QB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Tyler Wilson
+    
+	
+
+
+	(Cin - QB)","@Bal
+Sun, 1:00p","0","0","0","0","0","0","0","0","0.0","QB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"B.J. Daniels
+    
+	
+
+
+	(Sea - QB)","GB
+Thu, 8:30p","0","0","0","0","0","0","0","0","0.0","QB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mike Glennon
+    
+	
+
+
+	(TB - QB)","Car
+Sun, 4:25p","0","0","0","0","0","0","0","0","0.0","QB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jimmy Clausen
+    
+	
+
+
+	(Chi - QB)","Buf
+Sun, 1:00p","0","0","0","0","0","0","0","0","0.0","QB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Ryan Griffin
+    
+	
+
+
+	(NO - QB)","@Atl
+Sun, 1:00p","0","0","0","0","0","0","0","0","0.0","QB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Zac Dysert
+    
+	
+
+
+	(Den - QB)","Ind
+Sun, 8:30p","0","0","0","0","0","0","0","0","0.0","QB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Ryan Nassib
+    
+	
+
+
+	(NYG - QB)","@Det
+Mon, 7:10p","0","0","0","0","0","0","0","0","0.0","QB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brock Osweiler
+    
+	
+
+
+	(Den - QB)","Ind
+Sun, 8:30p","0","0","0","0","0","0","0","0","0.0","QB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Matt Forte
+    
+	
+
+
+	(Chi - RB)","Buf
+Sun, 1:00p","11","1341","4","571","0","0","0","0","1","RB","0","5","273.4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"LeSean McCoy
+    
+	
+
+
+	(Phi - RB)","Jac
+Sun, 1:00p","12","1360","3","468","0","0","0","0","1","RB","0","4","270.3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Eddie Lacy
+    
+	
+
+
+	(GB - RB)","@Sea
+Thu, 8:30p","12","1291","3","372","0","0","0","0","1","RB","0","4","247.3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Adrian Peterson
+    
+	
+
+
+	(Min - RB)","@StL
+Sun, 1:00p","13","1409","1","240","0","0","0","0","1","RB","0","4","244.2",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jamaal Charles
+    
+	
+
+
+	(KC - RB)","Ten
+Sun, 1:00p","10","1182","3","481","0","0","0","0","0","RB","0","4","235.7",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"DeMarco Murray
+    
+	
+
+
+	(Dal - RB)","SF
+Sun, 4:25p","11","1107","3","462","0","0","0","0","1","RB","0","4","231.9",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Alfred Morris
+    
+	
+
+
+	(Was - RB)","@Hou
+Sun, 1:00p","12","1384","1","86","0","0","0","0","1","RB","0","3","219.7",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Montee Ball
+    
+	
+
+
+	(Den - RB)","Ind
+Sun, 8:30p","12","1215","2","235","0","0","0","0","0","RB","0","4","217.9",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Doug Martin
+    
+	
+
+
+	(TB - RB)","Car
+Sun, 4:25p","10","1170","2","272","0","0","0","0","1","RB","0","4","207.8",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Le'Veon Bell
+    
+	
+
+
+	(Pit - RB)","Cle
+Sun, 1:00p","9","1077","3","387","0","0","0","0","0","RB","0","5","207.6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Arian Foster
+    
+	
+
+
+	(Hou - RB)","Was
+Sun, 1:00p","10","1138","2","300","0","0","0","0","1","RB","0","4","206.4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Giovani Bernard
+    
+	
+
+
+	(Cin - RB)","@Bal
+Sun, 1:00p","8","991","3","435","0","0","0","0","0","RB","0","4","203.1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Ryan Mathews
+    
+	
+
+
+	(SD - RB)","@Ari
+Mon, 10:20p","10","1077","2","284","0","0","0","0","1","RB","0","4","198.9",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Zac Stacy
+    
+	
+
+
+	(StL - RB)","Min
+Sun, 1:00p","9","1092","2","271","0","0","0","0","0","RB","0","5","192.0",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Andre Ellington
+    
+	
+
+
+	(Ari - RB)","SD
+Mon, 10:20p","8","953","2","368","0","0","0","0","0","RB","0","4","191.2",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Joique Bell
+    
+	
+
+
+	(Det - RB)","NYG
+Mon, 7:10p","7","674","4","541","0","0","0","0","0","RB","0","2","183.5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Chris Johnson
+    
+	
+
+
+	(NYJ - RB)","Oak
+Sun, 1:00p","9","1125","1","191","0","0","0","0","0","RB","0","4","183.3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"C.J. Spiller
+    
+	
+
+
+	(Buf - RB)","@Chi
+Sun, 1:00p","8","961","2","261","0","0","0","0","0","RB","0","4","177.0",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Marshawn Lynch
+    
+	
+
+
+	(Sea - RB)","GB
+Thu, 8:30p","9","1018","1","229","0","0","0","0","0","RB","0","4","176.8",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Reggie Bush
+    
+	
+
+
+	(Det - RB)","NYG
+Mon, 7:10p","7","814","3","438","0","0","0","0","0","RB","0","4","176.4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Ben Tate
+    
+	
+
+
+	(Cle - RB)","@Pit
+Sun, 1:00p","8","901","2","297","0","0","0","0","0","RB","0","4","171.4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Knowshon Moreno
+    
+	
+
+
+	(Mia - RB)","NE
+Sun, 1:00p","7","770","3","361","0","0","0","0","0","RB","0","3","167.0",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Ray Rice
+    
+	
+
+
+	(Bal - RB)","Cin
+Sun, 1:00p","7","874","2","318","0","0","0","0","0","RB","0","4","166.8",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Shane Vereen
+    
+	
+
+
+	(NE - RB)","@Mia
+Sun, 1:00p","6","637","4","461","0","0","0","0","0","RB","0","3","166.5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Pierre Thomas
+    
+	
+
+
+	(NO - RB)","@Atl
+Sun, 1:00p","7","677","3","433","0","0","0","0","0","RB","0","4","165.5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Bishop Sankey
+    
+	
+
+
+	(Ten - RB)","@KC
+Sun, 1:00p","8","972","1","217","0","0","4","165.2",NA,"RB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Toby Gerhart
+    
+	
+
+
+	(Jac - RB)","@Phi
+Sun, 1:00p","7","941","1","243","0","0","4","163.4",NA,"RB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"David Wilson
+    
+	
+
+
+	(NYG - RB)","@Det
+Mon, 7:10p","8","801","2","265","0","0","3","161.6",NA,"RB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Rashad Jennings
+    
+	
+
+
+	(NYG - RB)","@Det
+Mon, 7:10p","7","843","2","294","0","0","4","161.5",NA,"RB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Steven Jackson
+    
+	
+
+
+	(Atl - RB)","NO
+Sun, 1:00p","7","801","2","306","0","0","4","161.1",NA,"RB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Maurice Jones-Drew
+    
+	
+
+
+	(Oak - RB)","@NYJ
+Sun, 1:00p","6","877","2","286","0","0","4","157.4",NA,"RB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Stevan Ridley
+    
+	
+
+
+	(NE - RB)","@Mia
+Sun, 1:00p","9","974","0","68","0","0","4","152.6",NA,"RB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jonathan Stewart
+    
+	
+
+
+	(Car - RB)","@TB
+Sun, 4:25p","8","797","2","216","0","0","3","152.0",NA,"RB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Darren Sproles
+    
+	
+
+
+	(Phi - RB)","Jac
+Sun, 1:00p","6","503","4","450","0","0","2","147.1",NA,"RB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Lamar Miller
+    
+	
+
+
+	(Mia - RB)","NE
+Sun, 1:00p","7","822","1","209","0","0","4","144.9",NA,"RB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Bernard Pierce
+    
+	
+
+
+	(Bal - RB)","Cin
+Sun, 1:00p","7","692","2","226","0","0","3","141.0",NA,"RB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mark Ingram
+    
+	
+
+
+	(NO - RB)","@Atl
+Sun, 1:00p","8","636","2","226","0","0","2","140.9",NA,"RB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Frank Gore
+    
+	
+
+
+	(SF - RB)","@Dal
+Sun, 4:25p","7","896","1","118","0","0","4","140.7",NA,"RB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Ahmad Bradshaw
+    
+	
+
+
+	(Ind - RB)","@Den
+Sun, 8:30p","7","739","1","209","0","0","3","140.5",NA,"RB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"DeAngelo Williams
+    
+	
+
+
+	(Car - RB)","@TB
+Sun, 4:25p","7","817","1","155","0","0","3","136.0",NA,"RB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Darren McFadden
+    
+	
+
+
+	(Oak - RB)","@NYJ
+Sun, 1:00p","5","649","2","292","0","0","4","131.2",NA,"RB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jacquizz Rodgers
+    
+	
+
+
+	(Atl - RB)","NO
+Sun, 1:00p","4","406","4","448","0","0","3","127.5",NA,"RB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Chris Ivory
+    
+	
+
+
+	(NYJ - RB)","Oak
+Sun, 1:00p","8","749","0","29","0","0","2","121.2",NA,"RB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Terrance West
+    
+	
+
+
+	(Cle - RB)","@Pit
+Sun, 1:00p","6","538","2","214","0","0","2","117.9",NA,"RB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Andre Brown
+    
+	
+
+
+	(Hou - RB)","Was
+Sun, 1:00p","7","642","1","115","0","0","3","114.8",NA,"RB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Fred Jackson
+    
+	
+
+
+	(Buf - RB)","@Chi
+Sun, 1:00p","5","547","2","231","0","0","3","113.7",NA,"RB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Shonn Greene
+    
+	
+
+
+	(Ten - RB)","@KC
+Sun, 1:00p","6","631","1","142","0","0","3","113.6",NA,"RB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Ronnie Hillman
+    
+	
+
+
+	(Den - RB)","Ind
+Sun, 8:30p","4","401","3","363","0","0","3","112.8",NA,"RB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jordan Todman
+    
+	
+
+
+	(Jac - RB)","@Phi
+Sun, 1:00p","5","572","2","223","0","0","3","111.6",NA,"RB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jeremy Hill
+    
+	
+
+
+	(Cin - RB)","@Bal
+Sun, 1:00p","6","566","1","167","0","0","3","110.1",NA,"RB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Trent Richardson
+    
+	
+
+
+	(Ind - RB)","@Den
+Sun, 8:30p","5","626","1","175","0","0","3","108.9",NA,"RB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Carlos Hyde
+    
+	
+
+
+	(SF - RB)","@Dal
+Sun, 4:25p","6","618","1","88","0","0","3","104.7",NA,"RB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Danny Woodhead
+    
+	
+
+
+	(SD - RB)","@Ari
+Mon, 10:20p","4","404","2","283","0","0","3","101.3",NA,"RB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Tre Mason
+    
+	
+
+
+	(StL - RB)","Min
+Sun, 1:00p","4","452","2","230","0","0","2","98.7",NA,"RB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"LeGarrette Blount
+    
+	
+
+
+	(Pit - RB)","Cle
+Sun, 1:00p","6","539","1","76","0","0","2","96.1",NA,"RB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Charles Sims
+    
+	
+
+
+	(TB - RB)","Car
+Sun, 4:25p","4","396","2","257","0","0","2","95.7",NA,"RB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Stepfan Taylor
+    
+	
+
+
+	(Ari - RB)","SD
+Mon, 10:20p","4","493","1","185","0","0","3","95.6",NA,"RB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Knile Davis
+    
+	
+
+
+	(KC - RB)","Ten
+Sun, 1:00p","4","491","1","173","0","0","3","94.7",NA,"RB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"James Starks
+    
+	
+
+
+	(GB - RB)","@Sea
+Thu, 8:30p","6","455","1","98","0","0","2","91.2",NA,"RB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Roy Helu Jr.
+    
+	
+
+
+	(Was - RB)","@Hou
+Sun, 1:00p","4","382","2","183","0","0","2","85.8",NA,"RB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Lance Dunbar
+    
+	
+
+
+	(Dal - RB)","SF
+Sun, 4:25p","5","391","1","125","0","0","2","82.1",NA,"RB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Robert Turbin
+    
+	
+
+
+	(Sea - RB)","GB
+Thu, 8:30p","4","449","1","110","0","0","2","81.2",NA,"RB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Ka'Deem Carey
+    
+	
+
+
+	(Chi - RB)","Buf
+Sun, 1:00p","4","385","1","73","0","0","2","68.5",NA,"RB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jerick McKinnon
+    
+	
+
+
+	(Min - RB)","@StL
+Sun, 1:00p","4","346","1","93","0","0","2","66.3",NA,"RB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jonathan Dwyer
+    
+	
+
+
+	(Ari - RB)","SD
+Mon, 10:20p","3","269","1","111","0","0","1","58.0",NA,"RB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Dexter McCluster
+    
+	
+
+
+	(Ten - RB)","@KC
+Sun, 1:00p","2","157","2","208","0","0","1","57.7",NA,"RB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Vick Ballard
+    
+	
+
+
+	(Ind - RB)","@Den
+Sun, 8:30p","3","289","0","66","0","0","1","56.2",NA,"RB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Kendall Hunter
+    
+	
+
+
+	(SF - RB)","@Dal
+Sun, 4:25p","3","246","0","32","0","0","1","44.0",NA,"RB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brandon Bolden
+    
+	
+
+
+	(NE - RB)","@Mia
+Sun, 1:00p","2","184","0","56","0","0","1","38.0",NA,"RB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Devonta Freeman
+    
+	
+
+
+	(Atl - RB)","NO
+Sun, 1:00p","2","133","1","96","0","0","1","37.1",NA,"RB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"C.J. Anderson
+    
+	
+
+
+	(Den - RB)","Ind
+Sun, 8:30p","2","173","0","42","0","0","1","35.7",NA,"RB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Donald Brown
+    
+	
+
+
+	(SD - RB)","@Ari
+Mon, 10:20p","2","132","0","66","0","0","1","30.7",NA,"RB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Bryce Brown
+    
+	
+
+
+	(Buf - RB)","@Chi
+Sun, 1:00p","2","155","0","34","0","0","1","30.3",NA,"RB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Bobby Rainey
+    
+	
+
+
+	(TB - RB)","Car
+Sun, 4:25p","2","157","0","38","0","0","1","29.4",NA,"RB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Andre Williams
+    
+	
+
+
+	(NYG - RB)","@Det
+Mon, 7:10p","2","154","0","15","0","0","0","28.5",NA,"RB",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Christine Michael
+    
+	
+
+
+	(Sea - RB)","GB
+Thu, 8:30p","2","149","0","26","0","0","0","0","0","RB","0","1","28.4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Dennis Johnson
+    
+	
+
+
+	(Hou - RB)","Was
+Sun, 1:00p","1","140","0","24","0","0","0","0","0","RB","0","1","24.8",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"BenJarvus Green-Ellis
+    
+	
+
+
+	(Cin - RB)","@Bal
+Sun, 1:00p","2","154","0","6","0","0","0","0","0","RB","0","1","24.3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Latavius Murray
+    
+	
+
+
+	(Oak - RB)","@NYJ
+Sun, 1:00p","1","113","0","29","0","0","0","0","0","RB","0","1","22.0",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Matt Asiata
+    
+	
+
+
+	(Min - RB)","@StL
+Sun, 1:00p","1","147","0","1","0","0","0","0","0","RB","0","1","21.8",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Michael Ford
+    
+	
+
+
+	(Chi - RB)","Buf
+Sun, 1:00p","1","111","0","9","0","0","0","1392","0","RB","0","1","18.5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Khiry Robinson
+    
+	
+
+
+	(NO - RB)","@Atl
+Sun, 1:00p","1","66","0","20","0","0","0","0","0","RB","0","0","17.0",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Cyrus Gray
+    
+	
+
+
+	(KC - RB)","Ten
+Sun, 1:00p","1","104","0","1","0","0","0","0","0","RB","0","1","15.3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Anthony Sherman
+    
+	
+
+
+	(KC - RB)","Ten
+Sun, 1:00p","0","6","1","101","0","0","0","0","0","RB","0","0","15.2",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Lorenzo Taliaferro
+    
+	
+
+
+	(Bal - RB)","Cin
+Sun, 1:00p","1","81","0","12","0","0","0","0","0","RB","0","0","14.7",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Daniel Thomas
+    
+	
+
+
+	(Mia - RB)","NE
+Sun, 1:00p","1","66","0","15","0","0","0","0","0","RB","0","0","13.9",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jackie Battle
+    
+	
+
+
+	(Ten - RB)","@KC
+Sun, 1:00p","1","69","0","0","0","0","0","0","0","RB","0","0","11.0",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Benny Cunningham
+    
+	
+
+
+	(StL - RB)","Min
+Sun, 1:00p","1","49","0","13","0","0","0","1431","0","RB","0","0","10.2",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mike Tolbert
+    
+	
+
+
+	(Car - RB)","@TB
+Sun, 4:25p","1","45","0","15","0","0","0","0","0","RB","0","0","10.0",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Bilal Powell
+    
+	
+
+
+	(NYJ - RB)","Oak
+Sun, 1:00p","1","47","0","8","0","0","0","0","0","RB","0","0","8.6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jed Collins
+    
+	
+
+
+	(Det - RB)","NYG
+Mon, 7:10p","0","13","0","46","0","0","0","0","0","RB","0","0","8.4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Henry Hynoski
+    
+	
+
+
+	(NYG - RB)","@Det
+Mon, 7:10p","0","4","0","50","0","0","0","0","0","RB","0","0","7.8",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Lache Seastrunk
+    
+	
+
+
+	(Was - RB)","@Hou
+Sun, 1:00p","0","43","0","4","0","0","0","0","0","RB","0","0","7.2",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Joe McKnight
+    
+	
+
+
+	(KC - RB)","Ten
+Sun, 1:00p","0","42","0","3","0","0","0","0","0","RB","0","0","6.8",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Joseph Randle
+    
+	
+
+
+	(Dal - RB)","SF
+Sun, 4:25p","1","36","0","1","0","0","0","0","0","RB","0","0","6.4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"DuJuan Harris
+    
+	
+
+
+	(GB - RB)","@Sea
+Thu, 8:30p","0","30","0","3","0","0","0","0","0","RB","0","0","5.6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Theo Riddick
+    
+	
+
+
+	(Det - RB)","NYG
+Mon, 7:10p","0","26","0","2","0","0","0","0","0","RB","0","0","4.7",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Dri Archer
+    
+	
+
+
+	(Pit - RB)","Cle
+Sun, 1:00p","0","18","0","6","0","0","0","0","0","RB","0","0","4.4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Dion Lewis
+    
+	
+
+
+	(Cle - RB)","@Pit
+Sun, 1:00p","0","22","0","2","0","0","0","0","0","RB","0","0","4.3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Chris Polk
+    
+	
+
+
+	(Phi - RB)","Jac
+Sun, 1:00p","0","21","0","2","0","0","0","0","0","RB","0","0","3.3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Julio Jones
+    
+	
+
+
+	(Atl - WR)","NO
+Sun, 1:00p","9","1375","0","0","0","0","1","188.0",NA,"WR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Calvin Johnson
+    
+	
+
+
+	(Det - WR)","NYG
+Mon, 7:10p","8","1344","0","0","0","0","1","180.0",NA,"WR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Antonio Brown
+    
+	
+
+
+	(Pit - WR)","Cle
+Sun, 1:00p","8","1277","0","0","0","0","1","171.4",NA,"WR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Demaryius Thomas
+    
+	
+
+
+	(Den - WR)","Ind
+Sun, 8:30p","8","1204","0","0","0","0","1","167.7",NA,"WR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jordy Nelson
+    
+	
+
+
+	(GB - WR)","@Sea
+Thu, 8:30p","8","1187","0","0","0","0","1","167.0",NA,"WR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Dez Bryant
+    
+	
+
+
+	(Dal - WR)","SF
+Sun, 4:25p","8","1214","0","0","0","0","1","165.4",NA,"WR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"A.J. Green
+    
+	
+
+
+	(Cin - WR)","@Bal
+Sun, 1:00p","7","1202","0","0","0","0","1","163.1",NA,"WR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Vincent Jackson
+    
+	
+
+
+	(TB - WR)","Car
+Sun, 4:25p","7","1191","0","0","0","0","1","161.7",NA,"WR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Victor Cruz
+    
+	
+
+
+	(NYG - WR)","@Det
+Mon, 7:10p","7","1170","0","0","0","0","1","159.3",NA,"WR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Keenan Allen
+    
+	
+
+
+	(SD - WR)","@Ari
+Mon, 10:20p","7","1136","0","0","0","0","1","154.1",NA,"WR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Michael Floyd
+    
+	
+
+
+	(Ari - WR)","SD
+Mon, 10:20p","7","1129","0","0","0","0","1","151.9",NA,"WR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Alshon Jeffery
+    
+	
+
+
+	(Chi - WR)","Buf
+Sun, 1:00p","7","1128","0","0","0","0","1","151.7",NA,"WR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brandon Marshall
+    
+	
+
+
+	(Chi - WR)","Buf
+Sun, 1:00p","7","1086","0","0","0","0","1","149.4",NA,"WR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Torrey Smith
+    
+	
+
+
+	(Bal - WR)","Cin
+Sun, 1:00p","7","1066","0","0","0","0","1","144.4",NA,"WR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Marques Colston
+    
+	
+
+
+	(NO - WR)","@Atl
+Sun, 1:00p","7","1027","0","0","0","0","1","142.7",NA,"WR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Randall Cobb
+    
+	
+
+
+	(GB - WR)","@Sea
+Thu, 8:30p","7","1006","0","0","0","0","1","140.3",NA,"WR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Percy Harvin
+    
+	
+
+
+	(Sea - WR)","GB
+Thu, 8:30p","5","808","2","192","0","0","1","139.3",NA,"WR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Andre Johnson
+    
+	
+
+
+	(Hou - WR)","Was
+Sun, 1:00p","6","1034","0","0","0","0","1","139.1",NA,"WR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Roddy White
+    
+	
+
+
+	(Atl - WR)","NO
+Sun, 1:00p","6","1004","0","0","0","0","1","137.9",NA,"WR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"T.Y. Hilton
+    
+	
+
+
+	(Ind - WR)","@Den
+Sun, 8:30p","6","1023","0","0","0","0","1","137.4",NA,"WR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Chris Givens
+    
+	
+
+
+	(StL - WR)","Min
+Sun, 1:00p","6","1030","0","0","0","0","1","136.7",NA,"WR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Larry Fitzgerald
+    
+	
+
+
+	(Ari - WR)","SD
+Mon, 10:20p","6","1002","0","0","0","0","1","136.5",NA,"WR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Terrance Williams
+    
+	
+
+
+	(Dal - WR)","SF
+Sun, 4:25p","6","990","0","0","0","0","1","134.2",NA,"WR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Kendall Wright
+    
+	
+
+
+	(Ten - WR)","@KC
+Sun, 1:00p","6","980","0","0","0","0","1","132.6",NA,"WR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Cordarrelle Patterson
+    
+	
+
+
+	(Min - WR)","@StL
+Sun, 1:00p","6","983","0","0","0","0","1","131.6",NA,"WR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Michael Crabtree
+    
+	
+
+
+	(SF - WR)","@Dal
+Sun, 4:25p","6","936","0","0","0","0","1","128.3",NA,"WR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Pierre Garcon
+    
+	
+
+
+	(Was - WR)","@Hou
+Sun, 1:00p","5","950","0","0","0","0","1","126.5",NA,"WR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mike Wallace
+    
+	
+
+
+	(Mia - WR)","NE
+Sun, 1:00p","6","924","0","0","0","0","1","124.7",NA,"WR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brian Hartline
+    
+	
+
+
+	(Mia - WR)","NE
+Sun, 1:00p","5","911","0","0","0","0","1","122.5",NA,"WR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mike Evans
+    
+	
+
+
+	(TB - WR)","Car
+Sun, 4:25p","5","902","0","0","0","0","1","121.0",NA,"WR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Cecil Shorts III
+    
+	
+
+
+	(Jac - WR)","@Phi
+Sun, 1:00p","5","915","0","0","0","0","1","120.0",NA,"WR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"DeSean Jackson
+    
+	
+
+
+	(Was - WR)","@Hou
+Sun, 1:00p","5","885","0","0","0","0","1","120.0",NA,"WR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Julian Edelman
+    
+	
+
+
+	(NE - WR)","@Mia
+Sun, 1:00p","6","872","0","0","0","0","1","119.1",NA,"WR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Wes Welker
+    
+	
+
+
+	(Den - WR)","Ind
+Sun, 8:30p","6","857","0","0","0","0","1","118.8",NA,"WR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Golden Tate
+    
+	
+
+
+	(Det - WR)","NYG
+Mon, 7:10p","5","865","0","0","0","0","1","116.6",NA,"WR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Eric Decker
+    
+	
+
+
+	(NYJ - WR)","Oak
+Sun, 1:00p","5","883","0","0","0","0","1","116.0",NA,"WR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Tavon Austin
+    
+	
+
+
+	(StL - WR)","Min
+Sun, 1:00p","4","726","1","132","0","0","1","115.7",NA,"WR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sammy Watkins
+    
+	
+
+
+	(Buf - WR)","@Chi
+Sun, 1:00p","5","856","0","0","0","0","1","115.7",NA,"WR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Kenny Stills
+    
+	
+
+
+	(NO - WR)","@Atl
+Sun, 1:00p","6","804","0","0","0","0","1","114.2",NA,"WR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Rueben Randle
+    
+	
+
+
+	(NYG - WR)","@Det
+Mon, 7:10p","5","827","0","0","0","0","1","112.6",NA,"WR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Greg Jennings
+    
+	
+
+
+	(Min - WR)","@StL
+Sun, 1:00p","5","827","0","0","0","0","1","112.1",NA,"WR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Danny Amendola
+    
+	
+
+
+	(NE - WR)","@Mia
+Sun, 1:00p","5","830","0","0","0","0","1","111.5",NA,"WR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Marqise Lee
+    
+	
+
+
+	(Jac - WR)","@Phi
+Sun, 1:00p","5","853","0","0","0","0","1","111.2",NA,"WR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Markus Wheaton
+    
+	
+
+
+	(Pit - WR)","Cle
+Sun, 1:00p","5","821","0","0","0","0","1","110.7",NA,"WR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Reggie Wayne
+    
+	
+
+
+	(Ind - WR)","@Den
+Sun, 8:30p","5","799","0","0","0","0","1","110.3",NA,"WR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"DeAndre Hopkins
+    
+	
+
+
+	(Hou - WR)","Was
+Sun, 1:00p","5","821","0","0","0","0","1","109.7",NA,"WR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brandin Cooks
+    
+	
+
+
+	(NO - WR)","@Atl
+Sun, 1:00p","5","793","0","0","0","0","1","109.2",NA,"WR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jeremy Maclin
+    
+	
+
+
+	(Phi - WR)","Jac
+Sun, 1:00p","5","800","0","0","0","0","1","109.1",NA,"WR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Nate Washington
+    
+	
+
+
+	(Ten - WR)","@KC
+Sun, 1:00p","5","813","0","0","0","0","1","108.4",NA,"WR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Dwayne Bowe
+    
+	
+
+
+	(KC - WR)","Ten
+Sun, 1:00p","4","828","0","0","0","0","1","108.3",NA,"WR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"James Jones
+    
+	
+
+
+	(Oak - WR)","@NYJ
+Sun, 1:00p","4","832","0","0","0","0","1","108.0",NA,"WR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Riley Cooper
+    
+	
+
+
+	(Phi - WR)","Jac
+Sun, 1:00p","5","768","0","0","0","0","1","104.8",NA,"WR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Kelvin Benjamin
+    
+	
+
+
+	(Car - WR)","@TB
+Sun, 4:25p","5","772","0","0","0","0","1","103.8",NA,"WR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Doug Baldwin
+    
+	
+
+
+	(Sea - WR)","GB
+Thu, 8:30p","4","785","0","0","0","0","1","103.2",NA,"WR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Rod Streater
+    
+	
+
+
+	(Oak - WR)","@NYJ
+Sun, 1:00p","4","782","0","0","0","0","1","102.0",NA,"WR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Odell Beckham Jr.
+    
+	
+
+
+	(NYG - WR)","@Det
+Mon, 7:10p","5","723","0","0","0","0","1","101.8",NA,"WR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jarrett Boykin
+    
+	
+
+
+	(GB - WR)","@Sea
+Thu, 8:30p","6","692","0","0","0","0","1","101.7",NA,"WR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Aaron Dobson
+    
+	
+
+
+	(NE - WR)","@Mia
+Sun, 1:00p","5","714","0","0","0","0","1","100.5",NA,"WR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Harry Douglas
+    
+	
+
+
+	(Atl - WR)","NO
+Sun, 1:00p","5","710","0","0","0","0","1","100.0",NA,"WR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Marvin Jones
+    
+	
+
+
+	(Cin - WR)","@Bal
+Sun, 1:00p","5","733","0","0","0","0","1","99.8",NA,"WR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Robert Woods
+    
+	
+
+
+	(Buf - WR)","@Chi
+Sun, 1:00p","4","741","0","0","0","0","1","99.6",NA,"WR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Anquan Boldin
+    
+	
+
+
+	(SF - WR)","@Dal
+Sun, 4:25p","4","739","0","0","0","0","1","99.2",NA,"WR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jerome Simpson
+    
+	
+
+
+	(Min - WR)","@StL
+Sun, 1:00p","5","683","0","0","0","0","1","95.9",NA,"WR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jeremy Kerley
+    
+	
+
+
+	(NYJ - WR)","Oak
+Sun, 1:00p","4","723","0","0","0","0","1","95.3",NA,"WR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Steve Smith Sr.
+    
+	
+
+
+	(Bal - WR)","Cin
+Sun, 1:00p","4","700","0","0","0","0","1","95.2",NA,"WR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Hakeem Nicks
+    
+	
+
+
+	(Ind - WR)","@Den
+Sun, 8:30p","5","668","0","0","0","0","1","94.2",NA,"WR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Denarius Moore
+    
+	
+
+
+	(Oak - WR)","@NYJ
+Sun, 1:00p","4","695","0","0","0","0","1","93.7",NA,"WR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Miles Austin
+    
+	
+
+
+	(Cle - WR)","@Pit
+Sun, 1:00p","4","694","0","0","0","0","1","93.2",NA,"WR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Emmanuel Sanders
+    
+	
+
+
+	(Den - WR)","Ind
+Sun, 8:30p","5","635","0","0","0","0","1","92.5",NA,"WR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Andrew Hawkins
+    
+	
+
+
+	(Cle - WR)","@Pit
+Sun, 1:00p","4","696","0","0","0","0","1","91.0",NA,"WR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Eddie Royal
+    
+	
+
+
+	(SD - WR)","@Ari
+Mon, 10:20p","4","665","0","0","0","0","1","90.5",NA,"WR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Justin Hunter
+    
+	
+
+
+	(Ten - WR)","@KC
+Sun, 1:00p","4","645","0","0","0","0","1","89.2",NA,"WR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Lance Moore
+    
+	
+
+
+	(Pit - WR)","Cle
+Sun, 1:00p","4","628","0","0","0","0","1","88.0",NA,"WR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Donnie Avery
+    
+	
+
+
+	(KC - WR)","Ten
+Sun, 1:00p","3","667","0","0","0","0","1","86.5",NA,"WR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jerricho Cotchery
+    
+	
+
+
+	(Car - WR)","@TB
+Sun, 4:25p","4","648","0","0","0","0","1","86.4",NA,"WR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Allen Robinson
+    
+	
+
+
+	(Jac - WR)","@Phi
+Sun, 1:00p","4","622","0","0","0","0","0","0","0","WR","0","1","84.8",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jermaine Kearse
+    
+	
+
+
+	(Sea - WR)","GB
+Thu, 8:30p","4","604","0","0","0","0","0","0","0","WR","0","1","83.0",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Austin Pettis
+    
+	
+
+
+	(StL - WR)","Min
+Sun, 1:00p","4","579","0","0","0","0","0","0","0","WR","0","1","80.4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jordan Matthews
+    
+	
+
+
+	(Phi - WR)","Jac
+Sun, 1:00p","4","561","0","0","0","0","0","0","0","WR","0","0","79.3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Ted Ginn Jr.
+    
+	
+
+
+	(Ari - WR)","SD
+Mon, 10:20p","4","557","0","0","0","748","0","0","0","WR","0","1","79.2",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Vincent Brown
+    
+	
+
+
+	(SD - WR)","@Ari
+Mon, 10:20p","4","555","0","0","0","0","0","0","0","WR","0","1","79.0",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Stevie Johnson
+    
+	
+
+
+	(SF - WR)","@Dal
+Sun, 4:25p","4","554","0","0","0","0","0","0","0","WR","0","1","77.2",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mike Williams
+    
+	
+
+
+	(Buf - WR)","@Chi
+Sun, 1:00p","4","538","0","0","0","0","0","0","0","WR","0","1","75.6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brandon Gibson
+    
+	
+
+
+	(Mia - WR)","NE
+Sun, 1:00p","4","520","0","0","0","0","0","0","0","WR","0","1","73.4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Marquess Wilson
+    
+	
+
+
+	(Chi - WR)","Buf
+Sun, 1:00p","4","496","0","0","0","0","0","0","0","WR","0","1","70.5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"A.J. Jenkins
+    
+	
+
+
+	(KC - WR)","Ten
+Sun, 1:00p","3","509","0","0","0","0","0","0","0","WR","0","0","69.2",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mohamed Sanu
+    
+	
+
+
+	(Cin - WR)","@Bal
+Sun, 1:00p","3","493","0","0","0","0","0","0","0","WR","0","1","68.9",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jason Avant
+    
+	
+
+
+	(Car - WR)","@TB
+Sun, 4:25p","3","482","0","0","0","0","0","0","0","WR","0","1","67.8",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Cole Beasley
+    
+	
+
+
+	(Dal - WR)","SF
+Sun, 4:25p","3","484","0","0","0","0","0","0","0","WR","0","1","67.0",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Andre Roberts
+    
+	
+
+
+	(Was - WR)","@Hou
+Sun, 1:00p","3","467","0","0","0","0","0","0","0","WR","0","1","66.4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Marlon Brown
+    
+	
+
+
+	(Bal - WR)","Cin
+Sun, 1:00p","3","458","0","0","0","0","0","0","0","WR","0","1","65.1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Nate Burleson
+    
+	
+
+
+	(Cle - WR)","@Pit
+Sun, 1:00p","3","472","0","0","0","0","0","0","0","WR","0","1","64.7",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Stephen Hill
+    
+	
+
+
+	(NYJ - WR)","Oak
+Sun, 1:00p","3","483","0","0","0","0","0","0","0","WR","0","0","64.6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Chris Owusu
+    
+	
+
+
+	(TB - WR)","Car
+Sun, 4:25p","3","442","0","0","0","0","0","0","0","WR","0","1","62.8",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Keshawn Martin
+    
+	
+
+
+	(Hou - WR)","Was
+Sun, 1:00p","3","459","0","0","0","735","0","1581","0","WR","0","0","62.8",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Malcom Floyd
+    
+	
+
+
+	(SD - WR)","@Ari
+Mon, 10:20p","3","419","0","0","0","0","0","0","0","WR","0","0","61.9",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mario Manningham
+    
+	
+
+
+	(NYG - WR)","@Det
+Mon, 7:10p","3","412","0","0","0","0","0","0","0","WR","0","0","61.4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Davante Adams
+    
+	
+
+
+	(GB - WR)","@Sea
+Thu, 8:30p","4","395","0","0","0","0","0","0","0","WR","0","0","61.2",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Andre Holmes
+    
+	
+
+
+	(Oak - WR)","@NYJ
+Sun, 1:00p","3","378","0","0","0","0","0","0","0","WR","0","0","52.7",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jarius Wright
+    
+	
+
+
+	(Min - WR)","@StL
+Sun, 1:00p","3","353","0","0","0","0","0","0","0","WR","0","0","51.4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Kenny Britt
+    
+	
+
+
+	(StL - WR)","Min
+Sun, 1:00p","3","358","0","0","0","0","0","0","0","WR","0","0","50.6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Robert Meachem
+    
+	
+
+
+	(NO - WR)","@Atl
+Sun, 1:00p","3","326","0","0","0","0","0","0","0","WR","0","0","50.4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brandon LaFell
+    
+	
+
+
+	(NE - WR)","@Mia
+Sun, 1:00p","3","317","0","0","0","0","0","0","0","WR","0","0","46.9",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Drew Davis
+    
+	
+
+
+	(Atl - WR)","NO
+Sun, 1:00p","3","297","0","0","0","0","0","0","0","WR","0","0","44.9",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Ryan Broyles
+    
+	
+
+
+	(Det - WR)","NYG
+Mon, 7:10p","2","321","0","0","0","0","0","0","0","WR","0","0","43.1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Tiquan Underwood
+    
+	
+
+
+	(Car - WR)","@TB
+Sun, 4:25p","2","295","0","0","0","0","0","0","0","WR","0","0","42.8",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Martavis Bryant
+    
+	
+
+
+	(Pit - WR)","Cle
+Sun, 1:00p","2","285","0","0","0","0","0","0","0","WR","0","0","42.8",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jacoby Jones
+    
+	
+
+
+	(Bal - WR)","Cin
+Sun, 1:00p","2","273","0","0","0","747","0","1752","0","WR","0","0","41.2",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Ace Sanders
+    
+	
+
+
+	(Jac - WR)","@Phi
+Sun, 1:00p","2","281","0","0","0","668","0","0","0","WR","0","0","40.2",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Aldrick Robinson
+    
+	
+
+
+	(Was - WR)","@Hou
+Sun, 1:00p","2","244","0","0","0","0","0","0","0","WR","0","0","36.5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Sidney Rice
+    
+	
+
+
+	(Sea - WR)","GB
+Thu, 8:30p","2","250","0","0","0","0","0","0","0","WR","0","0","36.1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Andre Caldwell
+    
+	
+
+
+	(Den - WR)","Ind
+Sun, 8:30p","2","229","0","0","0","0","0","0","0","WR","0","0","34.8",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Denard Robinson
+    
+	
+
+
+	(Jac - WR)","@Phi
+Sun, 1:00p","0","52","2","171","0","0","0","0","0","WR","0","0","34.5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Marquise Goodwin
+    
+	
+
+
+	(Buf - WR)","@Chi
+Sun, 1:00p","2","211","0","0","0","0","0","1800","0","WR","0","0","31.0",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Donte Moncrief
+    
+	
+
+
+	(Ind - WR)","@Den
+Sun, 8:30p","2","203","0","0","0","0","0","0","0","WR","0","0","30.9",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jon Baldwin
+    
+	
+
+
+	(Det - WR)","NYG
+Mon, 7:10p","2","187","0","0","0","0","0","0","0","WR","0","0","27.5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"DeVier Posey
+    
+	
+
+
+	(Hou - WR)","Was
+Sun, 1:00p","1","190","0","0","0","0","0","0","0","WR","0","0","27.0",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Junior Hemingway
+    
+	
+
+
+	(KC - WR)","Ten
+Sun, 1:00p","1","197","0","0","0","0","0","0","0","WR","0","0","26.9",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Josh Morgan
+    
+	
+
+
+	(Chi - WR)","Buf
+Sun, 1:00p","2","175","0","0","0","0","0","0","0","WR","0","0","26.7",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Travis Benjamin
+    
+	
+
+
+	(Cle - WR)","@Pit
+Sun, 1:00p","1","170","0","0","0","0","0","0","0","WR","0","0","25.1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"David Nelson
+    
+	
+
+
+	(NYJ - WR)","Oak
+Sun, 1:00p","1","175","0","0","0","0","0","0","0","WR","0","0","24.2",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Rishard Matthews
+    
+	
+
+
+	(Mia - WR)","NE
+Sun, 1:00p","1","162","0","0","0","0","0","0","0","WR","0","0","23.7",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Josh Huff
+    
+	
+
+
+	(Phi - WR)","Jac
+Sun, 1:00p","1","152","0","0","0","0","0","0","0","WR","0","0","22.3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Devin Street
+    
+	
+
+
+	(Dal - WR)","SF
+Sun, 4:25p","1","140","0","0","0","0","0","0","0","WR","0","0","21.2",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Darrius Heyward-Bey
+    
+	
+
+
+	(Pit - WR)","Cle
+Sun, 1:00p","1","99","0","0","0","0","0","0","0","WR","0","0","15.9",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mike Brown
+    
+	
+
+
+	(Jac - WR)","@Phi
+Sun, 1:00p","1","83","0","0","0","0","0","13.1",NA,"WR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Louis Murphy Jr.
+    
+	
+
+
+	(TB - WR)","Car
+Sun, 4:25p","1","79","0","0","0","0","0","12.5",NA,"WR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brian Quick
+    
+	
+
+
+	(StL - WR)","Min
+Sun, 1:00p","1","62","0","0","0","0","0","10.1",NA,"WR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Kenbrell Thompkins
+    
+	
+
+
+	(NE - WR)","@Mia
+Sun, 1:00p","1","59","0","0","0","0","0","9.3",NA,"WR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Greg Little
+    
+	
+
+
+	(Oak - WR)","@NYJ
+Sun, 1:00p","1","50","0","0","0","0","0","8.2",NA,"WR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Nick Toon
+    
+	
+
+
+	(NO - WR)","@Atl
+Sun, 1:00p","0","47","0","0","0","0","0","7.3",NA,"WR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Da'Rick Rogers
+    
+	
+
+
+	(Ind - WR)","@Den
+Sun, 8:30p","0","35","0","0","0","0","0","5.8",NA,"WR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Quinton Patton
+    
+	
+
+
+	(SF - WR)","@Dal
+Sun, 4:25p","0","31","0","0","0","0","0","5.2",NA,"WR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"T.J. Graham
+    
+	
+
+
+	(Buf - WR)","@Chi
+Sun, 1:00p","0","30","0","0","0","0","0","4.8",NA,"WR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jarvis Landry
+    
+	
+
+
+	(Mia - WR)","NE
+Sun, 1:00p","0","27","0","0","0","0","0","4.5",NA,"WR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Dwayne Harris
+    
+	
+
+
+	(Dal - WR)","SF
+Sun, 4:25p","0","29","0","0","0","0","0","4.4",NA,"WR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jacoby Ford
+    
+	
+
+
+	(NYJ - WR)","Oak
+Sun, 1:00p","0","26","0","0","0","0","0","4.0",NA,"WR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Kyle Williams
+    
+	
+
+
+	(KC - WR)","Ten
+Sun, 1:00p","0","27","0","0","0","0","0","4.0",NA,"WR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Mike Thomas
+    
+	
+
+
+	(Hou - WR)","Was
+Sun, 1:00p","0","20","0","0","0","0","0","3.8",NA,"WR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jerrel Jernigan
+    
+	
+
+
+	(NYG - WR)","@Det
+Mon, 7:10p","0","23","0","0","0","0","0","3.8",NA,"WR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Damaris Johnson
+    
+	
+
+
+	(Phi - WR)","Jac
+Sun, 1:00p","0","22","0","0","0","0","0","3.4",NA,"WR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Santana Moss
+    
+	
+
+
+	(Was - WR)","@Hou
+Sun, 1:00p","0","21","0","0","0","0","0","3.4",NA,"WR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Dane Sanzenbacher
+    
+	
+
+
+	(Cin - WR)","@Bal
+Sun, 1:00p","0","20","0","0","0","0","0","2.8",NA,"WR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Deonte Thompson
+    
+	
+
+
+	(Bal - WR)","Cin
+Sun, 1:00p","0","10","0","0","0","0","0","1.8",NA,"WR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Ricardo Lockette
+    
+	
+
+
+	(Sea - WR)","GB
+Thu, 8:30p","0","12","0","0","0","0","0","1.7",NA,"WR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Tandon Doss
+    
+	
+
+
+	(Jac - WR)","@Phi
+Sun, 1:00p","0","10","0","0","0","0","0","1.5",NA,"WR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Justin Brown
+    
+	
+
+
+	(Pit - WR)","Cle
+Sun, 1:00p","0","8","0","0","0","0","0","1.4",NA,"WR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Kevin Dorsey
+    
+	
+
+
+	(GB - WR)","@Sea
+Thu, 8:30p","0","7","0","0","0","0","0","1.2",NA,"WR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Kris Durham
+    
+	
+
+
+	(Det - WR)","NYG
+Mon, 7:10p","0","7","0","0","0","0","0","1.2",NA,"WR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Juron Criner
+    
+	
+
+
+	(Oak - WR)","@NYJ
+Sun, 1:00p","0","6","0","0","0","0","0","1.0",NA,"WR",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"TE",NA,NA,NA,"Jimmy Graham
+    
+	
+
+
+	(NO - TE)","@Atl
+Sun, 1:00p","8","1146","0","0","0","0","1","158.4","Jimmy Graham","JIMMYGRAHAM","NO",NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"TE",NA,NA,NA,"Jason Witten
+    
+	
+
+
+	(Dal - TE)","SF
+Sun, 4:25p","6","883","0","0","0","0","1","120.3","Jason Witten","JASONWITTEN","DAL",NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"TE",NA,NA,NA,"Jordan Cameron
+    
+	
+
+
+	(Cle - TE)","@Pit
+Sun, 1:00p","5","833","0","0","0","0","1","110.2","Jordan Cameron","JORDANCAMERON","CLE",NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"TE",NA,NA,NA,"Rob Gronkowski
+    
+	
+
+
+	(NE - TE)","@Mia
+Sun, 1:00p","5","772","0","0","0","0","1","106.3","Rob Gronkowski","ROBGRONKOWSKI","NE",NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"TE",NA,NA,NA,"Julius Thomas
+    
+	
+
+
+	(Den - TE)","Ind
+Sun, 8:30p","5","742","0","0","0","0","1","104.6","Julius Thomas","JULIUSTHOMAS","DEN",NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"TE",NA,NA,NA,"Greg Olsen
+    
+	
+
+
+	(Car - TE)","@TB
+Sun, 4:25p","4","723","0","0","0","0","1","97.7","Greg Olsen","GREGOLSEN","CAR",NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"TE",NA,NA,NA,"Dennis Pitta
+    
+	
+
+
+	(Bal - TE)","Cin
+Sun, 1:00p","4","699","0","0","0","0","1","94.7","Dennis Pitta","DENNISPITTA","BAL",NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"TE",NA,NA,NA,"Martellus Bennett
+    
+	
+
+
+	(Chi - TE)","Buf
+Sun, 1:00p","4","666","0","0","0","0","1","92.0","Martellus Bennett","MARTELLUSBENNETT","CHI",NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"TE",NA,NA,NA,"Heath Miller
+    
+	
+
+
+	(Pit - TE)","Cle
+Sun, 1:00p","4","667","0","0","0","0","1","91.1","Heath Miller","HEATHMILLER","PIT",NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"TE",NA,NA,NA,"Vernon Davis
+    
+	
+
+
+	(SF - TE)","@Dal
+Sun, 4:25p","4","664","0","0","0","0","1","88.9","Vernon Davis","VERNONDAVIS","SF",NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"TE",NA,NA,NA,"Jordan Reed
+    
+	
+
+
+	(Was - TE)","@Hou
+Sun, 1:00p","4","664","0","0","0","0","1","88.6","Jordan Reed","JORDANREED","WAS",NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"TE",NA,NA,NA,"Zach Ertz
+    
+	
+
+
+	(Phi - TE)","Jac
+Sun, 1:00p","4","629","0","0","0","0","1","86.9","Zach Ertz","ZACHERTZ","PHI",NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"TE",NA,NA,NA,"Kyle Rudolph
+    
+	
+
+
+	(Min - TE)","@StL
+Sun, 1:00p","4","625","0","0","0","0","1","86.1","Kyle Rudolph","KYLERUDOLPH","MIN",NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"TE",NA,NA,NA,"Charles Clay
+    
+	
+
+
+	(Mia - TE)","NE
+Sun, 1:00p","4","619","0","0","0","0","1","84.8","Charles Clay","CHARLESCLAY","MIA",NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"TE",NA,NA,NA,"Tyler Eifert
+    
+	
+
+
+	(Cin - TE)","@Bal
+Sun, 1:00p","4","594","0","0","0","0","1","81.3","Tyler Eifert","TYLEREIFERT","CIN",NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"TE",NA,NA,NA,"Jared Cook
+    
+	
+
+
+	(StL - TE)","Min
+Sun, 1:00p","4","594","0","0","0","0","1","80.7","Jared Cook","JAREDCOOK","STL",NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"TE",NA,NA,NA,"Ladarius Green
+    
+	
+
+
+	(SD - TE)","@Ari
+Mon, 10:20p","4","507","0","0","0","0","0","75.4","Ladarius Green","LADARIUSGREEN","SD",NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"TE",NA,NA,NA,"Levine Toilolo
+    
+	
+
+
+	(Atl - TE)","NO
+Sun, 1:00p","4","545","0","0","0","0","1","75.0","Levine Toilolo","LEVINETOILOLO","ATL",NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"TE",NA,NA,NA,"Antonio Gates
+    
+	
+
+
+	(SD - TE)","@Ari
+Mon, 10:20p","4","541","0","0","0","0","1","74.5","Antonio Gates","ANTONIOGATES","SD",NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"TE",NA,NA,NA,"Adrien Robinson
+    
+	
+
+
+	(NYG - TE)","@Det
+Mon, 7:10p","4","539","0","0","0","0","1","74.4","Adrien Robinson","ADRIENROBINSON","NYG",NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"TE",NA,NA,NA,"Garrett Graham
+    
+	
+
+
+	(Hou - TE)","Was
+Sun, 1:00p","3","546","0","0","0","0","1","72.5","Garrett Graham","GARRETTGRAHAM","HOU",NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"TE",NA,NA,NA,"Eric Ebron
+    
+	
+
+
+	(Det - TE)","NYG
+Mon, 7:10p","4","497","0","0","0","0","0","71.7","Eric Ebron","ERICEBRON","DET",NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"TE",NA,NA,NA,"Brandon Myers
+    
+	
+
+
+	(TB - TE)","Car
+Sun, 4:25p","3","527","0","0","0","0","1","71.6","Brandon Myers","BRANDONMYERS","TB",NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"TE",NA,NA,NA,"Delanie Walker
+    
+	
+
+
+	(Ten - TE)","@KC
+Sun, 1:00p","3","526","0","0","0","0","1","70.8","Delanie Walker","DELANIEWALKER","TEN",NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"TE",NA,NA,NA,"Andrew Quarless
+    
+	
+
+
+	(GB - TE)","@Sea
+Thu, 8:30p","3","487","0","0","0","0","1","68.3","Andrew Quarless","ANDREWQUARLESS","GB",NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"TE",NA,NA,NA,"Marcedes Lewis
+    
+	
+
+
+	(Jac - TE)","@Phi
+Sun, 1:00p","3","514","0","0","0","0","1","68.3","Marcedes Lewis","MARCEDESLEWIS","JAC",NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"TE",NA,NA,NA,"Rob Housler
+    
+	
+
+
+	(Ari - TE)","SD
+Mon, 10:20p","3","487","0","0","0","0","1","67.4","Rob Housler","ROBHOUSLER","ARI",NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"TE",NA,NA,NA,"David Ausberry
+    
+	
+
+
+	(Oak - TE)","@NYJ
+Sun, 1:00p","3","492","0","0","0","0","1","65.0","David Ausberry","DAVIDAUSBERRY","OAK",NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"TE",NA,NA,NA,"Coby Fleener
+    
+	
+
+
+	(Ind - TE)","@Den
+Sun, 8:30p","3","474","0","0","0","0","1","64.6","Coby Fleener","COBYFLEENER","IND",NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"TE",NA,NA,NA,"Scott Chandler
+    
+	
+
+
+	(Buf - TE)","@Chi
+Sun, 1:00p","3","457","0","0","0","0","1","62.1","Scott Chandler","SCOTTCHANDLER","BUF",NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"TE",NA,NA,NA,"Brandon Pettigrew
+    
+	
+
+
+	(Det - TE)","NYG
+Mon, 7:10p","3","443","0","0","0","0","1","58.8","Brandon Pettigrew","BRANDONPETTIGREW","DET",NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"TE",NA,NA,NA,"John Carlson
+    
+	
+
+
+	(Ari - TE)","SD
+Mon, 10:20p","3","394","0","0","0","0","0","57.8","John Carlson","JOHNCARLSON","ARI",NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"TE",NA,NA,NA,"Zach Miller
+    
+	
+
+
+	(Sea - TE)","GB
+Thu, 8:30p","3","408","0","0","0","0","1","54.9","Zach Miller","ZACHMILLER","SEA",NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"TE",NA,NA,NA,"Jermaine Gresham
+    
+	
+
+
+	(Cin - TE)","@Bal
+Sun, 1:00p","3","358","0","0","0","0","0","54.0","Jermaine Gresham","JERMAINEGRESHAM","CIN",NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"TE",NA,NA,NA,"Tim Wright
+    
+	
+
+
+	(TB - TE)","Car
+Sun, 4:25p","3","351","0","0","0","0","0","51.6","Tim Wright","TIMWRIGHT","TB",NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"TE",NA,NA,NA,"Jeff Cumberland
+    
+	
+
+
+	(NYJ - TE)","Oak
+Sun, 1:00p","2","390","0","0","0","0","1","50.8","Jeff Cumberland","JEFFCUMBERLAND","NYJ",NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"TE",NA,NA,NA,"Owen Daniels
+    
+	
+
+
+	(Bal - TE)","Cin
+Sun, 1:00p","3","329","0","0","0","0","0","49.5","Owen Daniels","OWENDANIELS","BAL",NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"TE",NA,NA,NA,"Dwayne Allen
+    
+	
+
+
+	(Ind - TE)","@Den
+Sun, 8:30p","3","325","0","0","0","0","0","49.0","Dwayne Allen","DWAYNEALLEN","IND",NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"TE",NA,NA,NA,"Gavin Escobar
+    
+	
+
+
+	(Dal - TE)","SF
+Sun, 4:25p","2","321","0","0","0","0","0","46.2","Gavin Escobar","GAVINESCOBAR","DAL",NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"TE",NA,NA,NA,"Benjamin Watson
+    
+	
+
+
+	(NO - TE)","@Atl
+Sun, 1:00p","3","297","0","0","0","0","0","45.3","Benjamin Watson","BENJAMINWATSON","NO",NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"TE",NA,NA,NA,"Anthony Fasano
+    
+	
+
+
+	(KC - TE)","Ten
+Sun, 1:00p","2","333","0","0","0","0","1","44.3","Anthony Fasano","ANTHONYFASANO","KC",NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"TE",NA,NA,NA,"Jim Dray
+    
+	
+
+
+	(Cle - TE)","@Pit
+Sun, 1:00p","2","269","0","0","0","0","0","38.7","Jim Dray","JIMDRAY","CLE",NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"TE",NA,NA,NA,"Mychal Rivera
+    
+	
+
+
+	(Oak - TE)","@NYJ
+Sun, 1:00p","2","259","0","0","0","0","0","37.7","Mychal Rivera","MYCHALRIVERA","OAK",NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"TE",NA,NA,NA,"Ryan Griffin
+    
+	
+
+
+	(Hou - TE)","Was
+Sun, 1:00p","2","246","0","0","0","0","0","36.4","Ryan Griffin","RYANGRIFFIN","HOU",NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"TE",NA,NA,NA,"Austin Seferian-Jenkins
+    
+	
+
+
+	(TB - TE)","Car
+Sun, 4:25p","2","241","0","0","0","0","0","34.8","Austin Seferian-Jenkins","AUSTINSEFERIANJENKINS","TB",NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"TE",NA,NA,NA,"Brent Celek
+    
+	
+
+
+	(Phi - TE)","Jac
+Sun, 1:00p","2","239","0","0","0","0","0","34.6","Brent Celek","BRENTCELEK","PHI",NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"TE",NA,NA,NA,"Lance Kendricks
+    
+	
+
+
+	(StL - TE)","Min
+Sun, 1:00p","2","219","0","0","0","0","0","31.2","Lance Kendricks","LANCEKENDRICKS","STL",NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"TE",NA,NA,NA,"Travis Kelce
+    
+	
+
+
+	(KC - TE)","Ten
+Sun, 1:00p","2","223","0","0","0","0","0","31.0","Travis Kelce","TRAVISKELCE","KC",NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"TE",NA,NA,NA,"Tony Moeaki
+    
+	
+
+
+	(Buf - TE)","@Chi
+Sun, 1:00p","2","208","0","0","0","0","0","30.8","Tony Moeaki","TONYMOEAKI","BUF",NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"TE",NA,NA,NA,"Jace Amaro
+    
+	
+
+
+	(NYJ - TE)","Oak
+Sun, 1:00p","1","202","0","0","0","0","0","28.9","Jace Amaro","JACEAMARO","NYJ",NA
